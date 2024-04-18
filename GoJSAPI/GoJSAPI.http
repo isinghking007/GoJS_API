@@ -1,0 +1,6 @@
+@GoJSAPI_HostAddress = http://localhost:5194
+
+GET {{GoJSAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

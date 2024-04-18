@@ -1,0 +1,15 @@
+#SaveButton,#loadDeatails{
+    border: 1px solid black;
+    padding: 10px;
+    width: 100px;
+    border-radius: 4px;
+    background: azure;
+    color: rebeccapurple;
+    font-size: 23px;
+}
+#loadDeatails{
+    margin-left:10px
+}
+h1{
+    color: brown;
+}
